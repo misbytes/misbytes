@@ -1,4 +1,8 @@
-## Hi there 👋
+# m i s . b y t e s
+
+- ETL Programmer
+
+[x](https://x.com/misbytes)
 
 <!--
 **misbytes/misbytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
