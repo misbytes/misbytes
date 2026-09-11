@@ -1,6 +1,6 @@
 # mis bytes
 
-[x](https://x.com/misbytes)    |    [yt](https://youtube.com/misbytes)
+ola - [x](https://x.com/misbytes)
 
 ---
 
