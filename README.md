@@ -1,15 +1,13 @@
-# m i s . b y t e s
+# m i s    b y t e s
 
-[x](https://x.com/misbytes) | [yt](https://youtube.com/misbytes)
+[x](https://x.com/misbytes)    |    [yt](https://youtube.com/misbytes)
 
 ---
 
 ### Experiencia
 
 - Ago 2012 a Actualidad | Desarrollo ETLs para carga de Datawarehouse
-
 - Ene 2010 a Ene 2013   | Desarrollo y Mantenimiento de Portal Web
-
 - Feb 2008 a Jul 2012   | Empleado Administrativo responsable de Facturacion y Cobranzas
 
 
