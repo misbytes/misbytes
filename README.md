@@ -1,4 +1,4 @@
-# m i s    b y t e s
+# mis bytes
 
 [x](https://x.com/misbytes)    |    [yt](https://youtube.com/misbytes)
 
