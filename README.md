@@ -1,6 +1,6 @@
 # mis bytes
 
-OLA :: [X](https://x.com/misbytes)
+void :: [X](https://x.com/misbytes)
 
 ---
 
