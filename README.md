@@ -1,6 +1,6 @@
 # v o i d
 
-void :: [X](https://x.com/misbytes)
+[x](https://x.com/misbytes)
 
 ---
 
