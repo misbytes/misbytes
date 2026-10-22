@@ -1,9 +1,9 @@
 # Q w e r t y
 
 ```
-andres@unrepomas:~$ git add .
+andres@misbytes:~$ git add .
 ```
 
 ```
-andres@unrepomas:~$ git commit -m "Ready for Disaster"
+andres@misbytes:~$ git commit -m "Ready for Disaster"
 ```
